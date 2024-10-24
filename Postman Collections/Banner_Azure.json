@@ -599,19 +599,6 @@
 				"url": "http://localhost:3000/test-execution"
 			},
 			"response": []
-		},
-		{
-			"name": "Call Function App",
-			"id": "ad73e49e-79a2-45be-936c-596f95a76a14",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "POST",
-				"header": [],
-				"url": ""
-			},
-			"response": []
 		}
 	],
 	"event": [
